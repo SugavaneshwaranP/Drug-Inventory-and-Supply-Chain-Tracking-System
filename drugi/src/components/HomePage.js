@@ -208,7 +208,7 @@ const Homepage = () => {
           </div>
           <div className="p-6 bg-white bg-opacity-20 backdrop-blur-lg rounded-xl shadow-lg">
             <h3 className="text-3xl font-bold">Secure Database</h3>
-            <p>Keep records safe with encrypted cloud storage.</p>
+            <p>Secured Database and Cloud Storage</p>
           </div>
         </div>
       </div>
